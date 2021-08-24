@@ -1,0 +1,14 @@
+{
+  "name": "bulma-responsive-form-addons",
+  "version": "1.0.0",
+  "description": "Responsive form addons for Bulma.",
+  "license": "Unlicense",
+  "author": {
+    "name": "Val",
+    "url": "https://val.codejam.info/"
+  },
+  "files": [
+    "bulma-responsive-form-addons.css"
+  ],
+  "repository": "valeriangalliat/bulma-responsive-form-addons"
+}

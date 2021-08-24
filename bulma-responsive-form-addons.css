@@ -1,0 +1,26 @@
+@media screen and (max-width: 768px) {
+    .field.has-addons {
+        flex-direction: column;
+    }
+
+    .field.has-addons .control button {
+        width: 100%;
+    }
+
+    .field.has-addons .control:first-child:not(:only-child) .button,
+    .field.has-addons .control:first-child:not(:only-child) .input,
+    .field.has-addons .control:first-child:not(:only-child) .select select {
+        border-radius: 4px 4px 0 0;
+    }
+
+    .field.has-addons .control:last-child:not(:only-child) .button,
+    .field.has-addons .control:last-child:not(:only-child) .input,
+    .field.has-addons .control:last-child:not(:only-child) .select select {
+        border-radius: 0 0 4px 4px;
+    }
+
+    .field.has-addons .control:not(:last-child) {
+        margin-right: 0;
+        margin-bottom: -1px;
+    }
+}
