@@ -22,6 +22,12 @@ edit it manually. Feel free to make a PR with Sass support. ❤
 
 Enjoy! 🍻
 
+## Installation
+
+```sh
+npm install bulma-responsive-form-addons
+```
+
 ## Usage
 
 ```html
