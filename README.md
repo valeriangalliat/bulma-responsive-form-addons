@@ -1,4 +1,4 @@
-# Bulma responsive form addons
+# Bulma responsive form addons [![npm version](http://img.shields.io/npm/v/bulma-responsive-form-addons.svg?style=flat-square)](https://www.npmjs.org/package/bulma-responsive-form-addons)
 
 > Responsive form addons for [Bulma](https://bulma.io/). 🤷
 
